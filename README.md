@@ -16,3 +16,5 @@ Jupiter Notebook 'La Favorita time series analysis' shows the exploratory analys
 Jupiter Notebook 'La Favorita predictions-no outliers' contains time series forecasting, final table of mape scores, residuals analysis to check for bias in the models.
 Jupiter Notebook 'La Favorita predictions - multivariate series' contains time series forecasting of multivariate time series: each series future values are predicted based on past values of all the series,
 results from each multivariate model are stored in csv files in a dedicated folder in 'data' folder.
+# Excited about the final results?
+Jump to 'ProjectPresentation' pdf file and get a glimpse!
