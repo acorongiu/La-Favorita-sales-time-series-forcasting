@@ -2,6 +2,7 @@
 Sales forecasting of 3 best sellers product categories for 2 (absolute best sellers) stores of la Corporacion Favorita, a large Ecuadorian-based grocery retailer.
 
 Initial data are available on Kaggle at: https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data
+be careful: train file has to be added to 'data' folder in order to run the code without path isses.
 
 # Goal: minimize MAPE (mean absolute percentage error) for 28 days (one month) of sales predictions
 
